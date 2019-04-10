@@ -17,13 +17,13 @@
     <distributionManagement>
        <repository>
             <id>central</id>
-            <name>ip-172-31-26-21-releases</name>
-            <url>http://15.164.104.84:8081/artifactory/jfrog_proj1</url>
+            <name>ip-172-31-29-251-releases</name>
+            <url>http://15.164.98.190:8081/artifactory/jfrog_proj1</url>
        </repository>
        <snapshotRepository>
            <id>snapshots</id>
-           <name>ip-172-31-26-21-snapshots</name>
-           <url>http://15.164.104.84:8081/artifactory/jfrog_proj1</url>
+           <name>ip-172-31-29-251-snapshots</name>
+           <url>http://15.164.98.190:8081/artifactory/jfrog_proj1</url>
        </snapshotRepository>
     </distributionManagement>
 
